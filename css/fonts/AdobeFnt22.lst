@@ -1,0 +1,283 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/AdobeFnt22.lst
+FileLength:6157
+FileModTime:706432766
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AllustDEMO-Regular
+FamilyName:Allust DEMO
+StyleName:Regular
+MenuName:Allust DEMO
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Allust DEMO Regular
+WritingScript:Roman
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/Allust-Demo.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15940
+FileModTime:608012460
+NameArray:0,Mac,4,Allust DEMO Regular
+NameArray:0,Win,1,Allust DEMO
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Baking-Lion---Personal-Use
+FamilyName:Baking Lion - Personal Use
+StyleName:Regular
+MenuName:Baking Lion - Personal Use
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Baking Lion - Personal Use
+WritingScript:Roman
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/Baking Lion - Personal Use.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50512
+FileModTime:572251992
+NameArray:0,Mac,18,Baking Lion - Personal Use
+NameArray:0,Mac,4,Baking Lion - Personal Use
+NameArray:0,Win,1,Baking Lion - Personal Use
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BaronNeue
+FamilyName:Baron Neue
+StyleName:Regular
+MenuName:Baron Neue
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Baron Neue
+WritingScript:Roman
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/Baron Neue.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:27176
+FileModTime:446642638
+NameArray:0,Mac,4,Baron Neue
+NameArray:0,Win,1,Baron Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINPro-Medium
+FamilyName:DINPro
+StyleName:Medium
+MenuName:DINPro-Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:DINPro-Medium
+WritingScript:Roman
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/DINPRO-MEDIUM_0(1).OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89060
+FileModTime:577021582
+NameArray:0,Mac,4,DINPro-Medium
+NameArray:0,Win,1,DINPro-Medium
+NameArray:0,Win,16,DINPro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AmericanGaramondBT-Roman
+FamilyName:American Garamond BT
+StyleName:Roman
+MenuName:American Garamond BT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:American Garamond BT
+WritingScript:Roman
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/English TT Fonts
+DataFormat:sfntResource
+ResourceID:171
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15812727
+FileModTime:300029176
+NameArray:0,Mac,4,American Garamond BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+MenuName:Gotham Medium
+StyleBits:0
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Gotham Medium
+WritingScript:Roman
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/Gotham-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:159852
+FileModTime:534334194
+NameArray:0,Mac,4,Gotham Medium
+NameArray:0,Win,1,Gotham Medium
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PeshangDes2
+FamilyName:Peshang Des 2
+StyleName:Regular
+MenuName:Peshang Des 2
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Peshang Des 2
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/Peshang Des 2 Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55716
+FileModTime:589580676
+NameArray:0,Mac,4,Peshang Des 2
+NameArray:0,Win,1,Peshang Des 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+MenuName:Calibri
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Calibri
+WritingScript:Roman
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/calibri.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1648120
+FileModTime:597402508
+NameArray:0,Mac,4,Calibri
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SnellRoundhand
+FamilyName:Snell Roundhand
+StyleName:Regular
+MenuName:Snell Roundhand
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Snell Roundhand
+WritingScript:Roman
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/SnellRoundhand.ttc
+TTCOffset:36
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3588844
+FileModTime:706432761
+NameArray:0,Mac,4,Snell Roundhand
+NameArray:0,Win,1,Snell Roundhand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SnellRoundhand-Black
+FamilyName:Snell Roundhand
+StyleName:Black
+MenuName:Snell Roundhand
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Snell Roundhand Black
+WritingScript:Roman
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/SnellRoundhand.ttc
+TTCOffset:668
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3588844
+FileModTime:706432761
+NameArray:0,Mac,4,Snell Roundhand Black
+NameArray:0,Win,1,Snell Roundhand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SnellRoundhand-Bold
+FamilyName:Snell Roundhand
+StyleName:Bold
+MenuName:Snell Roundhand
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Snell Roundhand Bold
+WritingScript:Roman
+OutlineFileName:/Users/finalcut/Desktop/Final Internal  Folder/Document fonts/SnellRoundhand.ttc
+TTCOffset:352
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3588844
+FileModTime:706432761
+NameArray:0,Mac,4,Snell Roundhand Bold
+NameArray:0,Win,1,Snell Roundhand
+%EndFont
+
