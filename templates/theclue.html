@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    اللغز
+{% endblock %}
+{% block main %}
+<div class="mb-3">
+    <img style="width:20%" src="https://cdn.discordapp.com/attachments/1075008945451704320/1158831341014622238/DreamShaper_v7_Create_a_captivating_oil_painting_of_a_talking_0.png?ex=651dad49&is=651c5bc9&hm=f28a7f269d98315c0de4ac89ea19c9d7782e047ac464a8a9b39586a7d01d7683&" style="margin-bottom: 1em; width: 30%" class="img-fluid" alt="...">
+</div>
+<h1>اللغز</h1>
+<div class="d-flex justify-content-center">
+
+    <p style="width:50%" >
+        يوجد عند باب الكوخ راس مقطوعه معلقة علي باب الكوخ وعند الاقتراب منها تجدها تبدا في التحدث و تقول لك بانك اذا اردت ان تتدخل الي الكوخ يجب عليك حل هذا اللغز :
+هو مش معروف ايه الغرض الحقيقي من التعويذة دي ولا مين اللي صنعها بس بالتاكيد جعلت السرقة اسهل
+    </p>
+</div>
+<figure>
+    <figcaption>للاستماع</figcaption>
+    <audio controls src="https://cdn.discordapp.com/attachments/1075008945451704320/1158737522000670740/ac25d4d7a4e49ae0.mp3?ex=651d55e9&is=651c0469&hm=9bc90039ae380b0c0c07451ee8acc1c41d8bed76442708394b8b85a7405c15db&">
+    </audio>
+</figure>
+  <h3>اجب عن اللغز</h3>
+  <h6>برجاء كتابة الاجابة باللغة الانجليزية و بحروف صغيرة</h6>
+  <div class="d-flex justify-content-center">
+      <p style="width:50%" >
+         هو مش معروف ايه الغرض الحقيقي من التعويذة دي ولا مين اللي صنعها بس بالتاكيد جعلت السرقة اسهل
+      </p>
+  </div>
+  <form action="/theclue" method="post">
+    <div class="mb-3">
+        <input autocomplete="off" autofocus class="form-control mx-auto w-auto" id="answer" name="answer" placeholder="الاجابة" type="text">
+    </div>
+    <button style="font-weight: bold;" class="btn btn-secondary" type="submit">ادخل الكوخ</button>
+  </form>
+
+{% endblock %}

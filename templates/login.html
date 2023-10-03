@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    الدخول
+{% endblock %}
+
+{% block main %}
+    <form action="/login" method="post">
+        <div class="mb-3">
+            <img src="https://logos-world.net/wp-content/uploads/2020/12/Hogwarts-Emblem.png" style="margin-bottom: 1em; width: 30%" class="img-fluid" alt="...">
+        </div>
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" id="username" name="username" placeholder="أسم الطالب" type="text">
+        </div>
+        <div class="mb-3">
+            <select class="form-control mx-auto w-auto" name="house" id="house">
+                <option value="" selected disabled >--اختار المنزل--</option>
+                <option style="color: red" value="gryffindor">جريفندور</option>
+                <option style="color: yellow" value="hufflepuff">هافلباف</option>
+                <option style="color: blue" value="ravenclaw">ريفينكلو</option>
+                <option style="color: green" value="slytherin">سليذرين</option>
+              </select>
+        </div>
+        <button style="font-weight: bold;" class="btn btn-secondary" type="submit">الدخول</button>
+    </form>
+{% endblock %}

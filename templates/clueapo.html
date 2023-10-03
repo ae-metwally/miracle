@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Apology
+{% endblock %}
+
+{% block main %}
+    <!-- https://memegen.link/ -->
+    <img alt="{{ top }}" class="border img-fluid" src="http://memegen.link/custom/{{ top | urlencode }}/{{ bottom | urlencode }}.jpg?alt=https://i.imgur.com/CsCgN7Ll.png&width=400" title="{{ top }}">
+    <p>الاجابة خاطئة
+        <br>
+        برجاء كتابة الاجابة باللغة الانجليزية و بحروف صغيرة
+    </p>
+    <a style="margin: 20px 20px 20px 20px;" href="/theclue" type="button" class="btn btn-secondary">اضغط للمحاولة مرة اخرى</a>
+
+{% endblock %}
